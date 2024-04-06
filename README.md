@@ -23,14 +23,12 @@ Ogni funzione deve essere testata invocandola nello script principale!
 - [x] ad ogni iterazione verifico se c'è corrispondenza tra l'elemento dell'arrray e la stringa data
 - [x] se c'è corrispondenza salvo l'idice dell'array
 - [x] se non c'è la variabile di appoggio resta -1 se c'è la variabilke d'appoggio indica l'idice
-- [x] sttampo il risultato
+- [x] stampo il risultato
 ## Svolgimento snack 3
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] creo una stringa vuota
+- [x] creo un ciclo for dove scorro tutto l'array
+- [x] ad ogni iterazione inserisco l'elemento nella stringa
+- [x] restituisco la stringa composta dagli elementi dell'arrray
 ## Svolgimento snack 4
 - [ ] 
 - [ ] 
