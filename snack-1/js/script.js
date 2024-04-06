@@ -1,5 +1,4 @@
-let userNum = prompt("Inserisci un numero");
-for (let i = 0; i < userNum; i++) {
-   let array = generaArray(10);
-    console.log(array);
-}
+let array=[1,2,3,4,5,];
+let array2=[]
+console.log(contaElementi(array));
+console.log(contaElementi(array2));
