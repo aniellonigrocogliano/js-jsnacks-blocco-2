@@ -12,19 +12,18 @@ Partite sempre impostando nel JS Docs che cosa fa la funzione, che parametri ric
 Ogni funzione deve essere testata invocandola nello script principale!
 
 ## Svolgimento snack 1
-- [ ] creo l'elemento contatore
-- [ ] nella funzione inserisco un ciclo while che verifica l'esistenza dell'elemento in un dato indice
-- [ ] se esiste incremento il contatore di uno
-- [ ] il ciclo si interrrompe quando l'inice seleziona dell'array restituisce undefined
-- [ ] in caso nel ciclo non abbia trovato nessun elemento sostituisco il contatore con -1
-- [ ] restituisco il risultato 
+- [x] creo l'elemento contatore
+- [x] nella funzione inserisco un ciclo while che verifica l'esistenza dell'elemento in un dato indice
+- [x] se esiste incremento il contatore di uno
+- [x] il ciclo si interrrompe quando l'inice seleziona dell'array restituisce undefined
+- [x] restituisco il risultato 
 ## Svolgimento snack 2
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] creo una variabile di appoggio
+- [x] creo un ciclo for dove scorro tutto l'array
+- [x] ad ogni iterazione verifico se c'è corrispondenza tra l'elemento dell'arrray e la stringa data
+- [x] se c'è corrispondenza salvo l'idice dell'array
+- [x] se non c'è la variabile di appoggio resta -1 se c'è la variabilke d'appoggio indica l'idice
+- [x] sttampo il risultato
 ## Svolgimento snack 3
 - [ ] 
 - [ ] 

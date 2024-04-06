@@ -10,10 +10,6 @@ function contaElementi(myArray) {
     while (myArray[count] != undefined) { // verifico che ne dato indice dell'array c'è realmente un elemento, appena non c'è un elemento il ciclo si ferma
         count++; //incremento il contatote
     }
-    if (count == 0) { // nel caso il ciclo al primo indice abbia trovato nulla il count resta a  0 quindi lo trasformiamo in meno -1
-        count = -1;
-    }
-
     return count // restituisco il risultato
     
 
