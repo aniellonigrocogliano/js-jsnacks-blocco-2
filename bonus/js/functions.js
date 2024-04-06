@@ -18,13 +18,14 @@ function contaElementi(myArray) {
  * Description placeholder
  * @date 6/4/2024 - 14:58:37
  *@param {array} myArray
- *
+ * @param {string} myString
  * @result {Array}  newArray
  * */
-function  rimuoviDallaCoda(myArray) {
+function  inserisciInTesta(myArray, myString) {
     let newArray = []; // imposto il nuovo array
-    for (let i = 0; i < contaElementi(myArray) -1; i++) { //inizializzo ciclo for con un valore in meno della lunghezza così da no copiare l'ultimo
-        newArray.push(myArray[i]); //inserisco tutti gli elementi nel nuovo array ad eccezione dell'ultimo
+    newArray.push(myString); // aggiungo elemento al nuo array
+    for (let i = 0; i < contaElementi(myArray)  ; i++) { //inizializzo ciclo for 
+        newArray.push(myArray[i]); //inserisco tutti gli elementi nel nuovo array
      }
     return newArray; //restituisco il nuovo array
 }

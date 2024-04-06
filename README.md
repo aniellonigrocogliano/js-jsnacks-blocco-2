@@ -30,23 +30,18 @@ Ogni funzione deve essere testata invocandola nello script principale!
 - [x] ad ogni iterazione inserisco l'elemento nella stringa
 - [x] restituisco la stringa composta dagli elementi dell'arrray
 ## Svolgimento snack 4
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] creo un nuovo array
+- [x] creo un ciclo for che si fermi al penultimo elemento dell'array
+- [x] copio tutti gli elementi tranne l'ultimo grazie al ciclo in un nuovo array
+- [x] restituisco il risultato
 ## Svolgimento snack 5
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] creo un nuovo array
+- [x] creo un ciclo for che inizi dal secondo elemento dell'array
+- [x] copio tutti gli elementi tranne il primo grazie al ciclo in un nuovo array
+- [x] restituisco il risultato
 ## Svolgimento bonus
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] creo un nuovo array
+- [x] aggiungo l'elemnto all'array
+- [x]  creo un ciclo for
+- [x] aggiungo al nuovo array tutti gli altri elementi
+- [x] restituisco il risultato
